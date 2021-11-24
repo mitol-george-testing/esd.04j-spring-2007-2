@@ -1,0 +1,40 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Energy",
+      "Nuclear"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Computational Modeling and Simulation"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Systems Design"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "b3cd201d-274d-7ed0-a6aa-9f8653210e5e"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Frameworks and Models in Engineering Systems / Engineering System Design",
+  "course_description": "This class provides an introduction to quantitative models and qualitative frameworks for studying complex engineering systems. Also taught is the art of abstracting a complex system into a model for purposes of analysis and design while dealing with complexity, emergent behavior, stochasticity, non-linearities and the requirements of many stakeholders with divergent objectives. The successful completion of the class requires a semester-long class project that deals with critical contemporary issues which require an integrative, interdisciplinary approach using the above models and frameworks.\n",
+  "department_numbers": [
+    "ESD",
+    "1"
+  ],
+  "extra_course_numbers": "1.041J,ESD.01J",
+  "primary_course_number": "ESD.04J",
+  "learning_resource_types": [
+    "Exams",
+    "Lecture Notes",
+    "Design Assignments",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
